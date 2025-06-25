@@ -1,0 +1,11 @@
+venv/
+.venv/
+
+.pytest_cache
+__pycache/
+*.pyc
+.pytest_cache/
+.coverage
+
+.env
+.env.*
